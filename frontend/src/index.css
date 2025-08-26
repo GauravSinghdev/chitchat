@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Fira Code", "Source Code Pro", Menlo, Monaco, monospace;
+}
+
+
+
