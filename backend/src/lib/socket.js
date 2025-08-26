@@ -7,7 +7,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: ["https://be-chitchat.supxdevs.com"],
+    origin: ["https://chitchat.supxdevs.com"],
   },
 });
 
